@@ -1,0 +1,16 @@
+/home/avator/dev/trade-stats/foo.pac_ts_jar_0.0.1-SNAPSHOT/src/main/java/foo/pac/ApplicationMain.java
+/home/avator/dev/trade-stats/foo.pac_ts_jar_0.0.1-SNAPSHOT/src/main/java/foo/pac/db/mongo/iex/IexCompanyEarningsRepository.java
+/home/avator/dev/trade-stats/foo.pac_ts_jar_0.0.1-SNAPSHOT/src/main/java/foo/pac/db/mongo/iex/IexCompanyStatsRepository.java
+/home/avator/dev/trade-stats/foo.pac_ts_jar_0.0.1-SNAPSHOT/src/main/java/foo/pac/db/mongo/iex/IexCompanyStats.java
+/home/avator/dev/trade-stats/foo.pac_ts_jar_0.0.1-SNAPSHOT/src/main/java/foo/pac/db/mongo/iex/IexCompanyInfo.java
+/home/avator/dev/trade-stats/foo.pac_ts_jar_0.0.1-SNAPSHOT/src/main/java/foo/pac/db/mongo/iex/IexCompaniesRepository.java
+/home/avator/dev/trade-stats/foo.pac_ts_jar_0.0.1-SNAPSHOT/src/main/java/foo/pac/db/mongo/iex/IexCompanyStockpricedailyRawRepository.java
+/home/avator/dev/trade-stats/foo.pac_ts_jar_0.0.1-SNAPSHOT/src/main/java/foo/pac/domains/CompaniesSingleton.java
+/home/avator/dev/trade-stats/foo.pac_ts_jar_0.0.1-SNAPSHOT/src/main/java/foo/pac/db/mongo/iex/IexCompanyStockpricedailyRaw.java
+/home/avator/dev/trade-stats/foo.pac_ts_jar_0.0.1-SNAPSHOT/src/main/java/foo/pac/db/mongo/iex/IexCompanyInfoRepository.java
+/home/avator/dev/trade-stats/foo.pac_ts_jar_0.0.1-SNAPSHOT/src/main/java/foo/pac/db/mongo/iex/IexCompanies.java
+/home/avator/dev/trade-stats/foo.pac_ts_jar_0.0.1-SNAPSHOT/src/main/java/foo/pac/db/mongo/iex/IexCompanyEarnings.java
+/home/avator/dev/trade-stats/foo.pac_ts_jar_0.0.1-SNAPSHOT/src/main/java/foo/pac/endpoints/PingEndpoint.java
+/home/avator/dev/trade-stats/foo.pac_ts_jar_0.0.1-SNAPSHOT/src/main/java/foo/pac/stock/endpoints/IexEndpoints.java
+/home/avator/dev/trade-stats/foo.pac_ts_jar_0.0.1-SNAPSHOT/src/main/java/foo/pac/domains/Company.java
+/home/avator/dev/trade-stats/foo.pac_ts_jar_0.0.1-SNAPSHOT/src/main/java/foo/pac/JerseyConfig.java
